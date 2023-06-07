@@ -4,13 +4,13 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:5.000000,
-https://api.codetabs.com/v1/proxy?quest=?https://master1.cdnx.stream/files/CBDIAEFC/720K/2023/EGGDADCE/05/ADFCBFDA/21/AABEBCBF/11431-000.ts
+https://api.codetabs.com/v1/proxy?quest=https://master1.cdnx.stream/files/CBDIAEFC/720K/2023/EGGDADCE/05/ADFCBFDA/21/AABEBCBF/11431-000.ts
 #EXTINF:5.000000,
 https://api.codetabs.com/v1/proxy?quest=https://master1.cdnx.stream/files/CBDIAEFC/720K/2023/EGGDADCE/05/ADFCBFDA/21/AABEBCBF/11431-001.ts
 #EXTINF:1.066667,
-https://api.codetabs.com/v1/proxy?quest=?https://master1.cdnx.stream/files/CBDIAEFC/720K/2023/EGGDADCE/05/ADFCBFDA/21/AABEBCBF/11431-002.ts
+https://api.codetabs.com/v1/proxy?quest=https://master1.cdnx.stream/files/CBDIAEFC/720K/2023/EGGDADCE/05/ADFCBFDA/21/AABEBCBF/11431-002.ts
 #EXTINF:5.000000,
-https://api.codetabs.com/v1/proxy?quest=?https://master1.cdnx.stream/files/CBDIAEFC/720K/2023/EGGDADCE/05/ADFCBFDA/21/AABEBCBF/11431-003.ts
+https://api.codetabs.com/v1/proxy?quest=https://master1.cdnx.stream/files/CBDIAEFC/720K/2023/EGGDADCE/05/ADFCBFDA/21/AABEBCBF/11431-003.ts
 #EXTINF:5.000000,
 https://api.codetabs.com/v1/proxy?quest=https://master1.cdnx.stream/files/CBDIAEFC/720K/2023/EGGDADCE/05/ADFCBFDA/21/AABEBCBF/11431-004.ts
 #EXTINF:1.000000,
